@@ -1,10 +1,11 @@
 # Women-Clothing-E-commerce-Power-BI-Analysis
 
-Overview
+**Overview**
 
 This project explores a real-world dataset of 22,641 customer reviews from a women’s clothing e-commerce platform. Using Excel, I built an interactive dashboard that visualizes key trends in product reviews, recommendations, and customer preferences across departments, age groups, and product categories.
 
-Tools & Skills
+
+**Tools & Skills**
 
 Microsoft Excel
 
@@ -17,7 +18,8 @@ Data cleaning & transformation
 Bar, pie, and combo charts for storytelling
 
 
-Insights Gained
+
+**Insights Gained**
 
 The Tops department received the highest number of reviews.
 
